@@ -2,5 +2,5 @@
 
 ## integrantes:
 
-##Victor Yassunori Okada
-##Luker Mendes de Almeida
+Victor Yassunori Okada
+Luker Mendes de Almeida
